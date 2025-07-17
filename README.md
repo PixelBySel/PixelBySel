@@ -1,13 +1,59 @@
-<h1 align="center">Hi 👋, I'm Pixel</h1>
-<h3 align="center">Web dev from france 🇫🇷</h3>
+<!-- Pixel y Sel — README profile -->
 
-- 👨‍💻 All of my projects are available at [pixelbysel.com](pixelbysel.com)
+<h1 align="center">👋 Hey, I'm Pixel</h1>
 
-- 📫 How to reach me **pixelbysel@gmail.com**
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:6366F1&height=150&section=header&text=Web%20Developer%20Freelance&fontColor=fff&fontSize=30&fontAlignY=35" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">💻 Frontend & Backend Web Developer based in France 🇫🇷</p>
+
+<p align="center">
+  <a href="https://pixelbysel.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-pixelbysel.com-3B82F6?style=for-the-badge" />
+  </a>
+  <a href="mailto:pixelbysel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://backbonejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+<h2 align="center">⚡ My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+---
+
+<h2 align="center">📜 Mentions Légales</h2>
+
+<details>
+  <summary>Click to show legal info</summary>
+
+  **Nom commercial** : Pixel y Sel   
+  **Email** : pixelbysel@gmail.com  
+  **Téléphone** : +33 6 34 68 16 51  
+  **Hébergeur** : [Vercel](https://vercel.com)  
+
+  > Ce site est édité par un entrepreneur individuel.  
+  > Aucune collecte de données personnelles.  
+  > Aucun cookie utilisé.
+</details>
+
+---
+
+<h2 align="center">🛠️ Open for Projects & Collaboration</h2>
+
+<p align="center">✨ Let's build something amazing together ✨</p>
+
+---
+
+<h2 align="center">⬇️ Check My Projects Below ⬇️</h2>
