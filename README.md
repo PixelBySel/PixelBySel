@@ -38,7 +38,10 @@
 <details>
   <summary>Click to show legal info</summary>
 
-  **Nom commercial** : Pixel y Sel   
+  **Nom commercial** : Pixel y Sel  
+  **SIRET** : 989 031 240 00017  
+  **Responsable** : Selim Azor  
+  **Adresse** : 3 quai de Phalsbourg, 54300 Lunéville, France  
   **Email** : pixelbysel@gmail.com  
   **Téléphone** : +33 6 34 68 16 51  
   **Hébergeur** : [Vercel](https://vercel.com)  
@@ -55,5 +58,3 @@
 <p align="center">✨ Let's build something amazing together ✨</p>
 
 ---
-
-<h2 align="center">⬇️ Check My Projects Below ⬇️</h2>
